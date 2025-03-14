@@ -79,7 +79,7 @@ WHERE first_name IN ('Kelly', 'Willie')
   AND active = TRUE;
 ```
 
-<img src = "img/img3.png" width = 100%>
+<img src = "img/img4png" width = 100%>
 
 ----
 
