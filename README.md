@@ -15,7 +15,7 @@ WHERE district LIKE 'K%a'
   AND district NOT LIKE '% %';
 ```
 
-<img src = "img/img1.png" width = 40%>
+![img](img/img1.png)
 
 ----
 
@@ -34,7 +34,7 @@ WHERE payment_date BETWEEN '2005-06-15' AND '2005-06-18 23:59:59'
   AND amount > 10.00;
 ```
 
-<img src = "img/img2.png" width = 100%>
+![img](img/img2.png)
 
 ----
 
@@ -53,7 +53,7 @@ ORDER BY rental_date DESC
 LIMIT 5;
 ```
 
-<img src = "img/img3.png" width = 100%>
+![img](img/img3.png)
 
 ----
 
@@ -79,7 +79,7 @@ WHERE first_name IN ('Kelly', 'Willie')
   AND active = TRUE;
 ```
 
-<img src = "img/img4.png" width = 50%>
+![img](img/img4.png)
 
 ----
 
